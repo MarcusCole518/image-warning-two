@@ -1,0 +1,1200 @@
+{
+    "isPartialBuild": false,
+    "created": [
+        {
+            "path": "/page-data/using-typescript/page-data.json",
+            "filePath": "/usr/src/app/www/public/page-data/using-typescript/page-data.json",
+            "ssrType": null,
+            "headers": [
+                "cache-control: public, max-age=0, must-revalidate",
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "42b12e9c2d64a431fb7e02fb846ece66",
+            "md5": "42b12e9c2d64a431fb7e02fb846ece66",
+            "sha1": "42b12e9c2d64a431fb7e02fb846ece66"
+        },
+        {
+            "path": "/using-typescript/index.html",
+            "filePath": "/usr/src/app/www/public/using-typescript/index.html",
+            "ssrType": null,
+            "headers": [
+                "cache-control: public, max-age=0, must-revalidate",
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "30fa3505e6da62984d159ab99989fe50",
+            "md5": "30fa3505e6da62984d159ab99989fe50",
+            "sha1": "30fa3505e6da62984d159ab99989fe50"
+        },
+        {
+            "path": "/page-data/using-ssr/page-data.json",
+            "filePath": "/usr/src/app/www/public/page-data/using-ssr/page-data.json",
+            "ssrType": "SSR",
+            "headers": [
+                "cache-control: public, max-age=0, must-revalidate",
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "",
+            "md5": "",
+            "sha1": ""
+        },
+        {
+            "path": "/using-ssr/index.html",
+            "filePath": "/usr/src/app/www/public/using-ssr/index.html",
+            "ssrType": "SSR",
+            "headers": [
+                "cache-control: public, max-age=0, must-revalidate",
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "",
+            "md5": "",
+            "sha1": ""
+        },
+        {
+            "path": "/page-data/page-2/page-data.json",
+            "filePath": "/usr/src/app/www/public/page-data/page-2/page-data.json",
+            "ssrType": null,
+            "headers": [
+                "cache-control: public, max-age=0, must-revalidate",
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "292ed7d452cd123306c64dc07dec4f74",
+            "md5": "292ed7d452cd123306c64dc07dec4f74",
+            "sha1": "292ed7d452cd123306c64dc07dec4f74"
+        },
+        {
+            "path": "/page-2/index.html",
+            "filePath": "/usr/src/app/www/public/page-2/index.html",
+            "ssrType": null,
+            "headers": [
+                "cache-control: public, max-age=0, must-revalidate",
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "d0690fde3d19a6ba5321c62260bb8d56",
+            "md5": "d0690fde3d19a6ba5321c62260bb8d56",
+            "sha1": "d0690fde3d19a6ba5321c62260bb8d56"
+        },
+        {
+            "path": "/page-data/index/page-data.json",
+            "filePath": "/usr/src/app/www/public/page-data/index/page-data.json",
+            "ssrType": null,
+            "headers": [
+                "cache-control: public, max-age=0, must-revalidate",
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "2cd92c80cf4c6be46e4b8bafc83e6f72",
+            "md5": "2cd92c80cf4c6be46e4b8bafc83e6f72",
+            "sha1": "2cd92c80cf4c6be46e4b8bafc83e6f72"
+        },
+        {
+            "path": "/index.html",
+            "filePath": "/usr/src/app/www/public/index.html",
+            "ssrType": null,
+            "headers": [
+                "cache-control: public, max-age=0, must-revalidate",
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "47c8c6d056c92d1bcf1e88f26e469b51",
+            "md5": "47c8c6d056c92d1bcf1e88f26e469b51",
+            "sha1": "47c8c6d056c92d1bcf1e88f26e469b51"
+        },
+        {
+            "path": "/page-data/404.html/page-data.json",
+            "filePath": "/usr/src/app/www/public/page-data/404.html/page-data.json",
+            "ssrType": null,
+            "headers": [
+                "cache-control: public, max-age=0, must-revalidate",
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "95ae80e300dfebd3c90a477327e96910",
+            "md5": "95ae80e300dfebd3c90a477327e96910",
+            "sha1": "95ae80e300dfebd3c90a477327e96910"
+        },
+        {
+            "path": "/404.html",
+            "filePath": "/usr/src/app/www/public/404.html",
+            "ssrType": null,
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "125d67c22d90747b2d6e46fb8c40fd7f",
+            "md5": "125d67c22d90747b2d6e46fb8c40fd7f",
+            "sha1": "125d67c22d90747b2d6e46fb8c40fd7f"
+        },
+        {
+            "path": "/page-data/404/page-data.json",
+            "filePath": "/usr/src/app/www/public/page-data/404/page-data.json",
+            "ssrType": null,
+            "headers": [
+                "cache-control: public, max-age=0, must-revalidate",
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "da71c63646b0347c5849295f4271024d",
+            "md5": "da71c63646b0347c5849295f4271024d",
+            "sha1": "da71c63646b0347c5849295f4271024d"
+        },
+        {
+            "path": "/404/index.html",
+            "filePath": "/usr/src/app/www/public/404/index.html",
+            "ssrType": null,
+            "headers": [
+                "cache-control: public, max-age=0, must-revalidate",
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "d9e5f2abc0be1d691d32ef64bf7b7b9b",
+            "md5": "d9e5f2abc0be1d691d32ef64bf7b7b9b",
+            "sha1": "d9e5f2abc0be1d691d32ef64bf7b7b9b"
+        },
+        {
+            "path": "/page-data/using-dsg/page-data.json",
+            "filePath": "/usr/src/app/www/public/page-data/using-dsg/page-data.json",
+            "ssrType": "DSG",
+            "headers": [
+                "cache-control: public, max-age=0, must-revalidate",
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "",
+            "md5": "",
+            "sha1": ""
+        },
+        {
+            "path": "/using-dsg/index.html",
+            "filePath": "/usr/src/app/www/public/using-dsg/index.html",
+            "ssrType": "DSG",
+            "headers": [
+                "cache-control: public, max-age=0, must-revalidate",
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "",
+            "md5": "",
+            "sha1": ""
+        },
+        {
+            "path": "/_gatsby/slices/_gatsby-scripts-1.html",
+            "filePath": "/usr/src/app/www/public/_gatsby/slices/_gatsby-scripts-1.html",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "eb1f433e0d857ed4b6e78b6e3b07a814",
+            "md5": "eb1f433e0d857ed4b6e78b6e3b07a814",
+            "sha1": "eb1f433e0d857ed4b6e78b6e3b07a814"
+        },
+        {
+            "path": "/~partytown/debug/partytown-atomics.js",
+            "filePath": "/usr/src/app/www/public/~partytown/debug/partytown-atomics.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "13dea3d2ec228ecdcb84811b8d0efa1a",
+            "md5": "13dea3d2ec228ecdcb84811b8d0efa1a",
+            "sha1": "13dea3d2ec228ecdcb84811b8d0efa1a"
+        },
+        {
+            "path": "/~partytown/debug/partytown-media.js",
+            "filePath": "/usr/src/app/www/public/~partytown/debug/partytown-media.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "589a303c3e37b49baabb07a3b5388a04",
+            "md5": "589a303c3e37b49baabb07a3b5388a04",
+            "sha1": "589a303c3e37b49baabb07a3b5388a04"
+        },
+        {
+            "path": "/~partytown/debug/partytown-sandbox-sw.js",
+            "filePath": "/usr/src/app/www/public/~partytown/debug/partytown-sandbox-sw.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "3d58ee95a277c3b7113b74047c05480d",
+            "md5": "3d58ee95a277c3b7113b74047c05480d",
+            "sha1": "3d58ee95a277c3b7113b74047c05480d"
+        },
+        {
+            "path": "/~partytown/debug/partytown-sw.js",
+            "filePath": "/usr/src/app/www/public/~partytown/debug/partytown-sw.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "44a261f81c0616401021af349e1e85fb",
+            "md5": "44a261f81c0616401021af349e1e85fb",
+            "sha1": "44a261f81c0616401021af349e1e85fb"
+        },
+        {
+            "path": "/~partytown/debug/partytown-ww-atomics.js",
+            "filePath": "/usr/src/app/www/public/~partytown/debug/partytown-ww-atomics.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "e7b64e889e233cb439e273164b96f63b",
+            "md5": "e7b64e889e233cb439e273164b96f63b",
+            "sha1": "e7b64e889e233cb439e273164b96f63b"
+        },
+        {
+            "path": "/~partytown/debug/partytown-ww-sw.js",
+            "filePath": "/usr/src/app/www/public/~partytown/debug/partytown-ww-sw.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "ea8c3ac708bf768ba2513010cac84d23",
+            "md5": "ea8c3ac708bf768ba2513010cac84d23",
+            "sha1": "ea8c3ac708bf768ba2513010cac84d23"
+        },
+        {
+            "path": "/~partytown/debug/partytown.js",
+            "filePath": "/usr/src/app/www/public/~partytown/debug/partytown.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "8352322f059cee000f6fbe9a2ee39579",
+            "md5": "8352322f059cee000f6fbe9a2ee39579",
+            "sha1": "8352322f059cee000f6fbe9a2ee39579"
+        },
+        {
+            "path": "/~partytown/partytown-atomics.js",
+            "filePath": "/usr/src/app/www/public/~partytown/partytown-atomics.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "505b66f2dd45b8ef1e3f428e3f415326",
+            "md5": "505b66f2dd45b8ef1e3f428e3f415326",
+            "sha1": "505b66f2dd45b8ef1e3f428e3f415326"
+        },
+        {
+            "path": "/~partytown/partytown-media.js",
+            "filePath": "/usr/src/app/www/public/~partytown/partytown-media.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "7208c6918538d1aaf3dd2094f9feb84b",
+            "md5": "7208c6918538d1aaf3dd2094f9feb84b",
+            "sha1": "7208c6918538d1aaf3dd2094f9feb84b"
+        },
+        {
+            "path": "/~partytown/partytown-sw.js",
+            "filePath": "/usr/src/app/www/public/~partytown/partytown-sw.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "37161d33ed7f57bce6d8e22bb854b1ac",
+            "md5": "37161d33ed7f57bce6d8e22bb854b1ac",
+            "sha1": "37161d33ed7f57bce6d8e22bb854b1ac"
+        },
+        {
+            "path": "/~partytown/partytown.js",
+            "filePath": "/usr/src/app/www/public/~partytown/partytown.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "2773fc4246c14f627c85c532680bfb41",
+            "md5": "2773fc4246c14f627c85c532680bfb41",
+            "sha1": "2773fc4246c14f627c85c532680bfb41"
+        },
+        {
+            "path": "/223-c6726477057a648e5a28.js",
+            "filePath": "/usr/src/app/www/public/223-c6726477057a648e5a28.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "da563488087d42c9486b0fa24fc658ef",
+            "md5": "da563488087d42c9486b0fa24fc658ef",
+            "sha1": "da563488087d42c9486b0fa24fc658ef"
+        },
+        {
+            "path": "/223-c6726477057a648e5a28.js.map",
+            "filePath": "/usr/src/app/www/public/223-c6726477057a648e5a28.js.map",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "611ef26284a7e7c22b6cb8320305a20d",
+            "md5": "611ef26284a7e7c22b6cb8320305a20d",
+            "sha1": "611ef26284a7e7c22b6cb8320305a20d"
+        },
+        {
+            "path": "/843-4d22e4d87d98fa226c97.js",
+            "filePath": "/usr/src/app/www/public/843-4d22e4d87d98fa226c97.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "0ab3d13e24bd525992e64d6ad75f10d7",
+            "md5": "0ab3d13e24bd525992e64d6ad75f10d7",
+            "sha1": "0ab3d13e24bd525992e64d6ad75f10d7"
+        },
+        {
+            "path": "/843-4d22e4d87d98fa226c97.js.map",
+            "filePath": "/usr/src/app/www/public/843-4d22e4d87d98fa226c97.js.map",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "fe15b065ddf710167a9853bf2a978989",
+            "md5": "fe15b065ddf710167a9853bf2a978989",
+            "sha1": "fe15b065ddf710167a9853bf2a978989"
+        },
+        {
+            "path": "/app-bbf3cd77fd9eba82ead5.js",
+            "filePath": "/usr/src/app/www/public/app-bbf3cd77fd9eba82ead5.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY",
+                "cache-control: public, max-age=31536000, immutable"
+            ],
+            "sha256": "93911ec89c2f02fd875bb9ef12556d71",
+            "md5": "93911ec89c2f02fd875bb9ef12556d71",
+            "sha1": "93911ec89c2f02fd875bb9ef12556d71"
+        },
+        {
+            "path": "/app-bbf3cd77fd9eba82ead5.js.LICENSE.txt",
+            "filePath": "/usr/src/app/www/public/app-bbf3cd77fd9eba82ead5.js.LICENSE.txt",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "8fb505a0d15bd340a3f1f1c822e27e4a",
+            "md5": "8fb505a0d15bd340a3f1f1c822e27e4a",
+            "sha1": "8fb505a0d15bd340a3f1f1c822e27e4a"
+        },
+        {
+            "path": "/app-bbf3cd77fd9eba82ead5.js.map",
+            "filePath": "/usr/src/app/www/public/app-bbf3cd77fd9eba82ead5.js.map",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "770c7e1b29f79aa8ad627fbbd3f97561",
+            "md5": "770c7e1b29f79aa8ad627fbbd3f97561",
+            "sha1": "770c7e1b29f79aa8ad627fbbd3f97561"
+        },
+        {
+            "path": "/chunk-map.json",
+            "filePath": "/usr/src/app/www/public/chunk-map.json",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "fb98b9a6146a48773f41d36fff592198",
+            "md5": "fb98b9a6146a48773f41d36fff592198",
+            "sha1": "fb98b9a6146a48773f41d36fff592198"
+        },
+        {
+            "path": "/component---src-pages-404-js-64b7b42e3d2efce6fb9f.js",
+            "filePath": "/usr/src/app/www/public/component---src-pages-404-js-64b7b42e3d2efce6fb9f.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY",
+                "cache-control: public, max-age=31536000, immutable"
+            ],
+            "sha256": "3af54bdef40b4dc7a8b0f87dc4f27612",
+            "md5": "3af54bdef40b4dc7a8b0f87dc4f27612",
+            "sha1": "3af54bdef40b4dc7a8b0f87dc4f27612"
+        },
+        {
+            "path": "/component---src-pages-404-js-64b7b42e3d2efce6fb9f.js.map",
+            "filePath": "/usr/src/app/www/public/component---src-pages-404-js-64b7b42e3d2efce6fb9f.js.map",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "a92a236af28d7a19787716a4182065bc",
+            "md5": "a92a236af28d7a19787716a4182065bc",
+            "sha1": "a92a236af28d7a19787716a4182065bc"
+        },
+        {
+            "path": "/component---src-pages-index-js-1650dc751729e4d9ab5c.js",
+            "filePath": "/usr/src/app/www/public/component---src-pages-index-js-1650dc751729e4d9ab5c.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY",
+                "cache-control: public, max-age=31536000, immutable"
+            ],
+            "sha256": "91366ff33ba8fc3b17d8a6bbbd9aca9d",
+            "md5": "91366ff33ba8fc3b17d8a6bbbd9aca9d",
+            "sha1": "91366ff33ba8fc3b17d8a6bbbd9aca9d"
+        },
+        {
+            "path": "/component---src-pages-index-js-1650dc751729e4d9ab5c.js.map",
+            "filePath": "/usr/src/app/www/public/component---src-pages-index-js-1650dc751729e4d9ab5c.js.map",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "660e3eb2cf9d3a3ccba8a6bf028c85c9",
+            "md5": "660e3eb2cf9d3a3ccba8a6bf028c85c9",
+            "sha1": "660e3eb2cf9d3a3ccba8a6bf028c85c9"
+        },
+        {
+            "path": "/component---src-pages-page-2-js-f9c0996d9fe1fe70f608.js",
+            "filePath": "/usr/src/app/www/public/component---src-pages-page-2-js-f9c0996d9fe1fe70f608.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY",
+                "cache-control: public, max-age=31536000, immutable"
+            ],
+            "sha256": "7e077d99a5a6d53106cceb8b9ff995b8",
+            "md5": "7e077d99a5a6d53106cceb8b9ff995b8",
+            "sha1": "7e077d99a5a6d53106cceb8b9ff995b8"
+        },
+        {
+            "path": "/component---src-pages-page-2-js-f9c0996d9fe1fe70f608.js.map",
+            "filePath": "/usr/src/app/www/public/component---src-pages-page-2-js-f9c0996d9fe1fe70f608.js.map",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "8a8a3bc2c897bdbfc2b8709ec6060164",
+            "md5": "8a8a3bc2c897bdbfc2b8709ec6060164",
+            "sha1": "8a8a3bc2c897bdbfc2b8709ec6060164"
+        },
+        {
+            "path": "/component---src-pages-using-ssr-js-2fd9537e76fde49860ef.js",
+            "filePath": "/usr/src/app/www/public/component---src-pages-using-ssr-js-2fd9537e76fde49860ef.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY",
+                "cache-control: public, max-age=31536000, immutable"
+            ],
+            "sha256": "012df6d5d0976fd5f45b634511da7796",
+            "md5": "012df6d5d0976fd5f45b634511da7796",
+            "sha1": "012df6d5d0976fd5f45b634511da7796"
+        },
+        {
+            "path": "/component---src-pages-using-ssr-js-2fd9537e76fde49860ef.js.map",
+            "filePath": "/usr/src/app/www/public/component---src-pages-using-ssr-js-2fd9537e76fde49860ef.js.map",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "ea5951b340ab36735ed4d69baa6f9eda",
+            "md5": "ea5951b340ab36735ed4d69baa6f9eda",
+            "sha1": "ea5951b340ab36735ed4d69baa6f9eda"
+        },
+        {
+            "path": "/component---src-pages-using-typescript-tsx-a3cd45a2e02c6d5e4798.js",
+            "filePath": "/usr/src/app/www/public/component---src-pages-using-typescript-tsx-a3cd45a2e02c6d5e4798.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY",
+                "cache-control: public, max-age=31536000, immutable"
+            ],
+            "sha256": "c954e90b90c66adbf1ce3c28dc1be488",
+            "md5": "c954e90b90c66adbf1ce3c28dc1be488",
+            "sha1": "c954e90b90c66adbf1ce3c28dc1be488"
+        },
+        {
+            "path": "/component---src-pages-using-typescript-tsx-a3cd45a2e02c6d5e4798.js.map",
+            "filePath": "/usr/src/app/www/public/component---src-pages-using-typescript-tsx-a3cd45a2e02c6d5e4798.js.map",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "d69164a8c5b190494218c89fddd57604",
+            "md5": "d69164a8c5b190494218c89fddd57604",
+            "sha1": "d69164a8c5b190494218c89fddd57604"
+        },
+        {
+            "path": "/component---src-templates-using-dsg-js-0d54b77c9f5deb8c7989.js",
+            "filePath": "/usr/src/app/www/public/component---src-templates-using-dsg-js-0d54b77c9f5deb8c7989.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY",
+                "cache-control: public, max-age=31536000, immutable"
+            ],
+            "sha256": "36073ec0dc78499dd79f3a55e8449e2a",
+            "md5": "36073ec0dc78499dd79f3a55e8449e2a",
+            "sha1": "36073ec0dc78499dd79f3a55e8449e2a"
+        },
+        {
+            "path": "/component---src-templates-using-dsg-js-0d54b77c9f5deb8c7989.js.map",
+            "filePath": "/usr/src/app/www/public/component---src-templates-using-dsg-js-0d54b77c9f5deb8c7989.js.map",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "ee46e65ac4d53e07319fd266f523f171",
+            "md5": "ee46e65ac4d53e07319fd266f523f171",
+            "sha1": "ee46e65ac4d53e07319fd266f523f171"
+        },
+        {
+            "path": "/favicon-32x32.png",
+            "filePath": "/usr/src/app/www/public/favicon-32x32.png",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "3029446b2675db35e68c2c569bf9b3a6",
+            "md5": "3029446b2675db35e68c2c569bf9b3a6",
+            "sha1": "3029446b2675db35e68c2c569bf9b3a6"
+        },
+        {
+            "path": "/framework-6e68b7056956344bfd29.js",
+            "filePath": "/usr/src/app/www/public/framework-6e68b7056956344bfd29.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY",
+                "cache-control: public, max-age=31536000, immutable"
+            ],
+            "sha256": "d3255091e891543d3992f55e1f108c53",
+            "md5": "d3255091e891543d3992f55e1f108c53",
+            "sha1": "d3255091e891543d3992f55e1f108c53"
+        },
+        {
+            "path": "/framework-6e68b7056956344bfd29.js.LICENSE.txt",
+            "filePath": "/usr/src/app/www/public/framework-6e68b7056956344bfd29.js.LICENSE.txt",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "0c95623c45ebef0e1328207bf3d3da31",
+            "md5": "0c95623c45ebef0e1328207bf3d3da31",
+            "sha1": "0c95623c45ebef0e1328207bf3d3da31"
+        },
+        {
+            "path": "/framework-6e68b7056956344bfd29.js.map",
+            "filePath": "/usr/src/app/www/public/framework-6e68b7056956344bfd29.js.map",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "9a649898267b05b834a7c021d224de6f",
+            "md5": "9a649898267b05b834a7c021d224de6f",
+            "sha1": "9a649898267b05b834a7c021d224de6f"
+        },
+        {
+            "path": "/icons/icon-144x144.png",
+            "filePath": "/usr/src/app/www/public/icons/icon-144x144.png",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "684f4638b3778de82cb8fa89a4ef1d67",
+            "md5": "684f4638b3778de82cb8fa89a4ef1d67",
+            "sha1": "684f4638b3778de82cb8fa89a4ef1d67"
+        },
+        {
+            "path": "/icons/icon-192x192.png",
+            "filePath": "/usr/src/app/www/public/icons/icon-192x192.png",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "dd89605d556c47195e5e17e4cdfaeddc",
+            "md5": "dd89605d556c47195e5e17e4cdfaeddc",
+            "sha1": "dd89605d556c47195e5e17e4cdfaeddc"
+        },
+        {
+            "path": "/icons/icon-256x256.png",
+            "filePath": "/usr/src/app/www/public/icons/icon-256x256.png",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "01e0749330d7ee768824757085ee343d",
+            "md5": "01e0749330d7ee768824757085ee343d",
+            "sha1": "01e0749330d7ee768824757085ee343d"
+        },
+        {
+            "path": "/icons/icon-384x384.png",
+            "filePath": "/usr/src/app/www/public/icons/icon-384x384.png",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "5e6cd19f690588d22cdfa51e7c1f2644",
+            "md5": "5e6cd19f690588d22cdfa51e7c1f2644",
+            "sha1": "5e6cd19f690588d22cdfa51e7c1f2644"
+        },
+        {
+            "path": "/icons/icon-48x48.png",
+            "filePath": "/usr/src/app/www/public/icons/icon-48x48.png",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "705684f4e62e491a98b53dfc526e19af",
+            "md5": "705684f4e62e491a98b53dfc526e19af",
+            "sha1": "705684f4e62e491a98b53dfc526e19af"
+        },
+        {
+            "path": "/icons/icon-512x512.png",
+            "filePath": "/usr/src/app/www/public/icons/icon-512x512.png",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "fb79c924ae419c05d1e6e800bf053b7b",
+            "md5": "fb79c924ae419c05d1e6e800bf053b7b",
+            "sha1": "fb79c924ae419c05d1e6e800bf053b7b"
+        },
+        {
+            "path": "/icons/icon-72x72.png",
+            "filePath": "/usr/src/app/www/public/icons/icon-72x72.png",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "7b67552b31b9e7c7b23c3621ac206632",
+            "md5": "7b67552b31b9e7c7b23c3621ac206632",
+            "sha1": "7b67552b31b9e7c7b23c3621ac206632"
+        },
+        {
+            "path": "/icons/icon-96x96.png",
+            "filePath": "/usr/src/app/www/public/icons/icon-96x96.png",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "fb969208039995eda4519476657a0e26",
+            "md5": "fb969208039995eda4519476657a0e26",
+            "sha1": "fb969208039995eda4519476657a0e26"
+        },
+        {
+            "path": "/manifest.webmanifest",
+            "filePath": "/usr/src/app/www/public/manifest.webmanifest",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "50af427cce49504cb2a57923af5cb864",
+            "md5": "50af427cce49504cb2a57923af5cb864",
+            "sha1": "50af427cce49504cb2a57923af5cb864"
+        },
+        {
+            "path": "/page-data/app-data.json",
+            "filePath": "/usr/src/app/www/public/page-data/app-data.json",
+            "headers": [
+                "cache-control: public, max-age=0, must-revalidate",
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "ad93164999b7f4499bc09236d5769f4a",
+            "md5": "ad93164999b7f4499bc09236d5769f4a",
+            "sha1": "ad93164999b7f4499bc09236d5769f4a"
+        },
+        {
+            "path": "/page-data/sq/d/3649515864.json",
+            "filePath": "/usr/src/app/www/public/page-data/sq/d/3649515864.json",
+            "headers": [
+                "cache-control: public, max-age=0, must-revalidate",
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "c052ff3f1ddd3e8434763787ef936e57",
+            "md5": "c052ff3f1ddd3e8434763787ef936e57",
+            "sha1": "c052ff3f1ddd3e8434763787ef936e57"
+        },
+        {
+            "path": "/page-data/sq/d/63159454.json",
+            "filePath": "/usr/src/app/www/public/page-data/sq/d/63159454.json",
+            "headers": [
+                "cache-control: public, max-age=0, must-revalidate",
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "38aa315613477bb921d7b63ae52caed7",
+            "md5": "38aa315613477bb921d7b63ae52caed7",
+            "sha1": "38aa315613477bb921d7b63ae52caed7"
+        },
+        {
+            "path": "/static/705185e5354a42a4570368356f29b7e5/0f9f8/example.png",
+            "filePath": "/usr/src/app/www/public/static/705185e5354a42a4570368356f29b7e5/0f9f8/example.png",
+            "headers": [
+                "cache-control: public, max-age=31536000, immutable",
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "d191e7218d6100071e11f54a04fcb54c",
+            "md5": "d191e7218d6100071e11f54a04fcb54c",
+            "sha1": "d191e7218d6100071e11f54a04fcb54c"
+        },
+        {
+            "path": "/static/705185e5354a42a4570368356f29b7e5/134eb/example.png",
+            "filePath": "/usr/src/app/www/public/static/705185e5354a42a4570368356f29b7e5/134eb/example.png",
+            "headers": [
+                "cache-control: public, max-age=31536000, immutable",
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "8ac818e6100e0e73c7e250a4a1ab8140",
+            "md5": "8ac818e6100e0e73c7e250a4a1ab8140",
+            "sha1": "8ac818e6100e0e73c7e250a4a1ab8140"
+        },
+        {
+            "path": "/static/705185e5354a42a4570368356f29b7e5/215bb/example.png",
+            "filePath": "/usr/src/app/www/public/static/705185e5354a42a4570368356f29b7e5/215bb/example.png",
+            "headers": [
+                "cache-control: public, max-age=31536000, immutable",
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "eb79c01c87de32b52d370cd3a071fd7c",
+            "md5": "eb79c01c87de32b52d370cd3a071fd7c",
+            "sha1": "eb79c01c87de32b52d370cd3a071fd7c"
+        },
+        {
+            "path": "/static/705185e5354a42a4570368356f29b7e5/555b2/example.webp",
+            "filePath": "/usr/src/app/www/public/static/705185e5354a42a4570368356f29b7e5/555b2/example.webp",
+            "headers": [
+                "cache-control: public, max-age=31536000, immutable",
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "16cce071bcd0af3bca3dda5a583747e0",
+            "md5": "16cce071bcd0af3bca3dda5a583747e0",
+            "sha1": "16cce071bcd0af3bca3dda5a583747e0"
+        },
+        {
+            "path": "/static/705185e5354a42a4570368356f29b7e5/64762/example.webp",
+            "filePath": "/usr/src/app/www/public/static/705185e5354a42a4570368356f29b7e5/64762/example.webp",
+            "headers": [
+                "cache-control: public, max-age=31536000, immutable",
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "c25f783ec03db616603c4a2309c98a2b",
+            "md5": "c25f783ec03db616603c4a2309c98a2b",
+            "sha1": "c25f783ec03db616603c4a2309c98a2b"
+        },
+        {
+            "path": "/static/705185e5354a42a4570368356f29b7e5/69fd1/example.webp",
+            "filePath": "/usr/src/app/www/public/static/705185e5354a42a4570368356f29b7e5/69fd1/example.webp",
+            "headers": [
+                "cache-control: public, max-age=31536000, immutable",
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "a95ac5f4eb19b42c7d2b6f0e801cdbe2",
+            "md5": "a95ac5f4eb19b42c7d2b6f0e801cdbe2",
+            "sha1": "a95ac5f4eb19b42c7d2b6f0e801cdbe2"
+        },
+        {
+            "path": "/static/705185e5354a42a4570368356f29b7e5/72378/example.webp",
+            "filePath": "/usr/src/app/www/public/static/705185e5354a42a4570368356f29b7e5/72378/example.webp",
+            "headers": [
+                "cache-control: public, max-age=31536000, immutable",
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "06ca49929c9698e886e116e8aa9622c1",
+            "md5": "06ca49929c9698e886e116e8aa9622c1",
+            "sha1": "06ca49929c9698e886e116e8aa9622c1"
+        },
+        {
+            "path": "/static/705185e5354a42a4570368356f29b7e5/ad936/example.avif",
+            "filePath": "/usr/src/app/www/public/static/705185e5354a42a4570368356f29b7e5/ad936/example.avif",
+            "headers": [
+                "cache-control: public, max-age=31536000, immutable",
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "1745c10e1100f339a4f004c8fc5de51f",
+            "md5": "1745c10e1100f339a4f004c8fc5de51f",
+            "sha1": "1745c10e1100f339a4f004c8fc5de51f"
+        },
+        {
+            "path": "/static/705185e5354a42a4570368356f29b7e5/bab23/example.png",
+            "filePath": "/usr/src/app/www/public/static/705185e5354a42a4570368356f29b7e5/bab23/example.png",
+            "headers": [
+                "cache-control: public, max-age=31536000, immutable",
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "6be5a86f4da1beee4048dec8cb583e9c",
+            "md5": "6be5a86f4da1beee4048dec8cb583e9c",
+            "sha1": "6be5a86f4da1beee4048dec8cb583e9c"
+        },
+        {
+            "path": "/static/705185e5354a42a4570368356f29b7e5/ddf23/example.avif",
+            "filePath": "/usr/src/app/www/public/static/705185e5354a42a4570368356f29b7e5/ddf23/example.avif",
+            "headers": [
+                "cache-control: public, max-age=31536000, immutable",
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "32b14a452f874e717b1eaeff1bf35600",
+            "md5": "32b14a452f874e717b1eaeff1bf35600",
+            "sha1": "32b14a452f874e717b1eaeff1bf35600"
+        },
+        {
+            "path": "/static/705185e5354a42a4570368356f29b7e5/dfaf6/example.avif",
+            "filePath": "/usr/src/app/www/public/static/705185e5354a42a4570368356f29b7e5/dfaf6/example.avif",
+            "headers": [
+                "cache-control: public, max-age=31536000, immutable",
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "16b7e56e47a78a4779cdfdc9a093d7de",
+            "md5": "16b7e56e47a78a4779cdfdc9a093d7de",
+            "sha1": "16b7e56e47a78a4779cdfdc9a093d7de"
+        },
+        {
+            "path": "/static/705185e5354a42a4570368356f29b7e5/e515b/example.avif",
+            "filePath": "/usr/src/app/www/public/static/705185e5354a42a4570368356f29b7e5/e515b/example.avif",
+            "headers": [
+                "cache-control: public, max-age=31536000, immutable",
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "eb159d246fe01269661730b79021aa01",
+            "md5": "eb159d246fe01269661730b79021aa01",
+            "sha1": "eb159d246fe01269661730b79021aa01"
+        },
+        {
+            "path": "/styles.8dc662cd4ca180166645.css",
+            "filePath": "/usr/src/app/www/public/styles.8dc662cd4ca180166645.css",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY",
+                "cache-control: public, max-age=31536000, immutable"
+            ],
+            "sha256": "64161fe2dabe084730a9a936777fc7f1",
+            "md5": "64161fe2dabe084730a9a936777fc7f1",
+            "sha1": "64161fe2dabe084730a9a936777fc7f1"
+        },
+        {
+            "path": "/webpack-runtime-c7a9b1a358daa013c97b.js",
+            "filePath": "/usr/src/app/www/public/webpack-runtime-c7a9b1a358daa013c97b.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY",
+                "cache-control: public, max-age=31536000, immutable"
+            ],
+            "sha256": "cf1d0cdb61f6ffbd6297f6782f2431ba",
+            "md5": "cf1d0cdb61f6ffbd6297f6782f2431ba",
+            "sha1": "cf1d0cdb61f6ffbd6297f6782f2431ba"
+        },
+        {
+            "path": "/webpack-runtime-c7a9b1a358daa013c97b.js.map",
+            "filePath": "/usr/src/app/www/public/webpack-runtime-c7a9b1a358daa013c97b.js.map",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "9d53e0362aaae3086008daba1096d2ac",
+            "md5": "9d53e0362aaae3086008daba1096d2ac",
+            "sha1": "9d53e0362aaae3086008daba1096d2ac"
+        },
+        {
+            "path": "/webpack.stats.json",
+            "filePath": "/usr/src/app/www/public/webpack.stats.json",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "3d1e2379223760a84184c7a02eec80aa",
+            "md5": "3d1e2379223760a84184c7a02eec80aa",
+            "sha1": "3d1e2379223760a84184c7a02eec80aa"
+        },
+        {
+            "path": "/static/705185e5354a42a4570368356f29b7e5/555b2/example.webp",
+            "filePath": "/usr/src/app/www/public/static/705185e5354a42a4570368356f29b7e5/555b2/example.webp",
+            "md5": "16cce071bcd0af3bca3dda5a583747e0",
+            "sha1": "ce66f010c75b6cf960f56b57e5dd70e7cb45d41e",
+            "sha256": "afa9b81ad058eb7e5e518f59797419de397ea160bb127a57134fb3237a372859",
+            "headers": [
+                "cache-control: public, max-age=31536000, immutable",
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ]
+        },
+        {
+            "path": "/static/705185e5354a42a4570368356f29b7e5/64762/example.webp",
+            "filePath": "/usr/src/app/www/public/static/705185e5354a42a4570368356f29b7e5/64762/example.webp",
+            "md5": "c25f783ec03db616603c4a2309c98a2b",
+            "sha1": "9dfbdc3ddae179a000e38c78459a332a65f4f224",
+            "sha256": "9be344e17ee06f3d5d591f5fcfe7b28a5b8ea9a9ba8eba23853c99b1de2ea1c6",
+            "headers": [
+                "cache-control: public, max-age=31536000, immutable",
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ]
+        },
+        {
+            "path": "/static/705185e5354a42a4570368356f29b7e5/69fd1/example.webp",
+            "filePath": "/usr/src/app/www/public/static/705185e5354a42a4570368356f29b7e5/69fd1/example.webp",
+            "md5": "a95ac5f4eb19b42c7d2b6f0e801cdbe2",
+            "sha1": "b68de54f35847d335fb912480c8915b2921aca83",
+            "sha256": "0bd3b4439ca4d81916e797e3f498e7cbcaf92d2daf5a4c52f254f20e427fca6b",
+            "headers": [
+                "cache-control: public, max-age=31536000, immutable",
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ]
+        },
+        {
+            "path": "/static/705185e5354a42a4570368356f29b7e5/72378/example.webp",
+            "filePath": "/usr/src/app/www/public/static/705185e5354a42a4570368356f29b7e5/72378/example.webp",
+            "md5": "06ca49929c9698e886e116e8aa9622c1",
+            "sha1": "b36bd845bfe7a0d8a599a77fdfa9f2a4f12b6e1b",
+            "sha256": "74258ab78dee41c8c0482195197688151a769f7f3b3fac49b41a239a517c1243",
+            "headers": [
+                "cache-control: public, max-age=31536000, immutable",
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ]
+        },
+        {
+            "path": "/static/705185e5354a42a4570368356f29b7e5/0f9f8/example.png",
+            "filePath": "/usr/src/app/www/public/static/705185e5354a42a4570368356f29b7e5/0f9f8/example.png",
+            "md5": "d191e7218d6100071e11f54a04fcb54c",
+            "sha1": "8a12d0ef52218f55e59d5177170ccba8d0bec531",
+            "sha256": "7e404d02500e9134908b0121fc118f6f074b68a6140392732b496b529d2c2d41",
+            "headers": [
+                "cache-control: public, max-age=31536000, immutable",
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ]
+        },
+        {
+            "path": "/static/705185e5354a42a4570368356f29b7e5/215bb/example.png",
+            "filePath": "/usr/src/app/www/public/static/705185e5354a42a4570368356f29b7e5/215bb/example.png",
+            "md5": "eb79c01c87de32b52d370cd3a071fd7c",
+            "sha1": "9b8abb79347ff0070776f6e4e3bce17ad3a829bb",
+            "sha256": "aeb93d6b1e5d05f1a4ef022b8d1e705605d6d3c44e253dee3a0347d493dffeba",
+            "headers": [
+                "cache-control: public, max-age=31536000, immutable",
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ]
+        },
+        {
+            "path": "/static/705185e5354a42a4570368356f29b7e5/134eb/example.png",
+            "filePath": "/usr/src/app/www/public/static/705185e5354a42a4570368356f29b7e5/134eb/example.png",
+            "md5": "8ac818e6100e0e73c7e250a4a1ab8140",
+            "sha1": "ad941902fc455ae142bf110bea135b339d10a539",
+            "sha256": "645a3e5ca3f9aab5d0153f3f06fdc2eb5fbb175ec8e3652e3ac4683e4ca6bbef",
+            "headers": [
+                "cache-control: public, max-age=31536000, immutable",
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ]
+        },
+        {
+            "path": "/static/705185e5354a42a4570368356f29b7e5/bab23/example.png",
+            "filePath": "/usr/src/app/www/public/static/705185e5354a42a4570368356f29b7e5/bab23/example.png",
+            "md5": "6be5a86f4da1beee4048dec8cb583e9c",
+            "sha1": "47759336a7236d2d698ef4cfc437c7d313d5dec6",
+            "sha256": "32ba4cb575247e66517539b4e84db8e25ccc9bdb4e37746575605f64c4fbb63e",
+            "headers": [
+                "cache-control: public, max-age=31536000, immutable",
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ]
+        }
+    ],
+    "updated": [],
+    "deleted": [],
+    "requiresFullDeploy": true,
+    "routeCounts": {
+        "ssgCount": 74,
+        "ssrCount": 2,
+        "dsgCount": 2,
+        "functionCount": 0,
+        "totalRenderedPageCount": 7,
+        "paths": {
+            "ssgPaths": {},
+            "ssrPaths": {},
+            "dsgPaths": {},
+            "functionPaths": {}
+        },
+        "functionsWithHashIds": []
+    }
+}

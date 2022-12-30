@@ -1,0 +1,405 @@
+{
+    "isPartialBuild": false,
+    "created": [
+        {
+            "path": "/404.html",
+            "filePath": "/usr/src/app/www/public/404.html",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "8fa0fc510d9e75cd620f2a0ff744358d",
+            "md5": "8fa0fc510d9e75cd620f2a0ff744358d",
+            "sha1": "8fa0fc510d9e75cd620f2a0ff744358d"
+        },
+        {
+            "path": "/404/index.html",
+            "filePath": "/usr/src/app/www/public/404/index.html",
+            "headers": [
+                "cache-control: public, max-age=0, must-revalidate",
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "242bdeadfc71f5cbd9290e58c4e73a44",
+            "md5": "242bdeadfc71f5cbd9290e58c4e73a44",
+            "sha1": "242bdeadfc71f5cbd9290e58c4e73a44"
+        },
+        {
+            "path": "/_gatsby/slices/_gatsby-scripts-1.html",
+            "filePath": "/usr/src/app/www/public/_gatsby/slices/_gatsby-scripts-1.html",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "1c8947eef619bdb9a51c925671628dcd",
+            "md5": "1c8947eef619bdb9a51c925671628dcd",
+            "sha1": "1c8947eef619bdb9a51c925671628dcd"
+        },
+        {
+            "path": "/favicon-32x32.png",
+            "filePath": "/usr/src/app/www/public/favicon-32x32.png",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "3029446b2675db35e68c2c569bf9b3a6",
+            "md5": "3029446b2675db35e68c2c569bf9b3a6",
+            "sha1": "3029446b2675db35e68c2c569bf9b3a6"
+        },
+        {
+            "path": "/icons/icon-144x144.png",
+            "filePath": "/usr/src/app/www/public/icons/icon-144x144.png",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "684f4638b3778de82cb8fa89a4ef1d67",
+            "md5": "684f4638b3778de82cb8fa89a4ef1d67",
+            "sha1": "684f4638b3778de82cb8fa89a4ef1d67"
+        },
+        {
+            "path": "/icons/icon-192x192.png",
+            "filePath": "/usr/src/app/www/public/icons/icon-192x192.png",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "dd89605d556c47195e5e17e4cdfaeddc",
+            "md5": "dd89605d556c47195e5e17e4cdfaeddc",
+            "sha1": "dd89605d556c47195e5e17e4cdfaeddc"
+        },
+        {
+            "path": "/icons/icon-256x256.png",
+            "filePath": "/usr/src/app/www/public/icons/icon-256x256.png",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "01e0749330d7ee768824757085ee343d",
+            "md5": "01e0749330d7ee768824757085ee343d",
+            "sha1": "01e0749330d7ee768824757085ee343d"
+        },
+        {
+            "path": "/icons/icon-384x384.png",
+            "filePath": "/usr/src/app/www/public/icons/icon-384x384.png",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "5e6cd19f690588d22cdfa51e7c1f2644",
+            "md5": "5e6cd19f690588d22cdfa51e7c1f2644",
+            "sha1": "5e6cd19f690588d22cdfa51e7c1f2644"
+        },
+        {
+            "path": "/icons/icon-48x48.png",
+            "filePath": "/usr/src/app/www/public/icons/icon-48x48.png",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "705684f4e62e491a98b53dfc526e19af",
+            "md5": "705684f4e62e491a98b53dfc526e19af",
+            "sha1": "705684f4e62e491a98b53dfc526e19af"
+        },
+        {
+            "path": "/icons/icon-512x512.png",
+            "filePath": "/usr/src/app/www/public/icons/icon-512x512.png",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "fb79c924ae419c05d1e6e800bf053b7b",
+            "md5": "fb79c924ae419c05d1e6e800bf053b7b",
+            "sha1": "fb79c924ae419c05d1e6e800bf053b7b"
+        },
+        {
+            "path": "/icons/icon-72x72.png",
+            "filePath": "/usr/src/app/www/public/icons/icon-72x72.png",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "7b67552b31b9e7c7b23c3621ac206632",
+            "md5": "7b67552b31b9e7c7b23c3621ac206632",
+            "sha1": "7b67552b31b9e7c7b23c3621ac206632"
+        },
+        {
+            "path": "/icons/icon-96x96.png",
+            "filePath": "/usr/src/app/www/public/icons/icon-96x96.png",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "fb969208039995eda4519476657a0e26",
+            "md5": "fb969208039995eda4519476657a0e26",
+            "sha1": "fb969208039995eda4519476657a0e26"
+        },
+        {
+            "path": "/index.html",
+            "filePath": "/usr/src/app/www/public/index.html",
+            "headers": [
+                "cache-control: public, max-age=0, must-revalidate",
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "7a940a5278ef54646d1bd764c09b1e01",
+            "md5": "7a940a5278ef54646d1bd764c09b1e01",
+            "sha1": "7a940a5278ef54646d1bd764c09b1e01"
+        },
+        {
+            "path": "/manifest.webmanifest",
+            "filePath": "/usr/src/app/www/public/manifest.webmanifest",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "50af427cce49504cb2a57923af5cb864",
+            "md5": "50af427cce49504cb2a57923af5cb864",
+            "sha1": "50af427cce49504cb2a57923af5cb864"
+        },
+        {
+            "path": "/page-2/index.html",
+            "filePath": "/usr/src/app/www/public/page-2/index.html",
+            "headers": [
+                "cache-control: public, max-age=0, must-revalidate",
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "dc23d26c837aa0e95d8ac1f22eb32e6e",
+            "md5": "dc23d26c837aa0e95d8ac1f22eb32e6e",
+            "sha1": "dc23d26c837aa0e95d8ac1f22eb32e6e"
+        },
+        {
+            "path": "/page-data/app-data.json",
+            "filePath": "/usr/src/app/www/public/page-data/app-data.json",
+            "headers": [
+                "cache-control: public, max-age=0, must-revalidate",
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "d2c864c3a5c64bbd13ba70fb9fd3e2b0",
+            "md5": "d2c864c3a5c64bbd13ba70fb9fd3e2b0",
+            "sha1": "d2c864c3a5c64bbd13ba70fb9fd3e2b0"
+        },
+        {
+            "path": "/page-data/using-typescript/page-data.json",
+            "filePath": "/usr/src/app/www/public/page-data/using-typescript/page-data.json",
+            "headers": [
+                "cache-control: public, max-age=0, must-revalidate",
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "e19ab58de20240b9658507eeff7214c7",
+            "md5": "e19ab58de20240b9658507eeff7214c7",
+            "sha1": "e19ab58de20240b9658507eeff7214c7"
+        },
+        {
+            "path": "/using-typescript/index.html",
+            "filePath": "/usr/src/app/www/public/using-typescript/index.html",
+            "headers": [
+                "cache-control: public, max-age=0, must-revalidate",
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "a95ffa5b9d5cb02f40ed18c6e81c08e9",
+            "md5": "a95ffa5b9d5cb02f40ed18c6e81c08e9",
+            "sha1": "a95ffa5b9d5cb02f40ed18c6e81c08e9"
+        },
+        {
+            "path": "/~partytown/debug/partytown-atomics.js",
+            "filePath": "/usr/src/app/www/public/~partytown/debug/partytown-atomics.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "13dea3d2ec228ecdcb84811b8d0efa1a",
+            "md5": "13dea3d2ec228ecdcb84811b8d0efa1a",
+            "sha1": "13dea3d2ec228ecdcb84811b8d0efa1a"
+        },
+        {
+            "path": "/~partytown/debug/partytown-media.js",
+            "filePath": "/usr/src/app/www/public/~partytown/debug/partytown-media.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "589a303c3e37b49baabb07a3b5388a04",
+            "md5": "589a303c3e37b49baabb07a3b5388a04",
+            "sha1": "589a303c3e37b49baabb07a3b5388a04"
+        },
+        {
+            "path": "/~partytown/debug/partytown-sandbox-sw.js",
+            "filePath": "/usr/src/app/www/public/~partytown/debug/partytown-sandbox-sw.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "3d58ee95a277c3b7113b74047c05480d",
+            "md5": "3d58ee95a277c3b7113b74047c05480d",
+            "sha1": "3d58ee95a277c3b7113b74047c05480d"
+        },
+        {
+            "path": "/~partytown/debug/partytown-sw.js",
+            "filePath": "/usr/src/app/www/public/~partytown/debug/partytown-sw.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "44a261f81c0616401021af349e1e85fb",
+            "md5": "44a261f81c0616401021af349e1e85fb",
+            "sha1": "44a261f81c0616401021af349e1e85fb"
+        },
+        {
+            "path": "/~partytown/debug/partytown-ww-atomics.js",
+            "filePath": "/usr/src/app/www/public/~partytown/debug/partytown-ww-atomics.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "e7b64e889e233cb439e273164b96f63b",
+            "md5": "e7b64e889e233cb439e273164b96f63b",
+            "sha1": "e7b64e889e233cb439e273164b96f63b"
+        },
+        {
+            "path": "/~partytown/debug/partytown-ww-sw.js",
+            "filePath": "/usr/src/app/www/public/~partytown/debug/partytown-ww-sw.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "ea8c3ac708bf768ba2513010cac84d23",
+            "md5": "ea8c3ac708bf768ba2513010cac84d23",
+            "sha1": "ea8c3ac708bf768ba2513010cac84d23"
+        },
+        {
+            "path": "/~partytown/debug/partytown.js",
+            "filePath": "/usr/src/app/www/public/~partytown/debug/partytown.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "8352322f059cee000f6fbe9a2ee39579",
+            "md5": "8352322f059cee000f6fbe9a2ee39579",
+            "sha1": "8352322f059cee000f6fbe9a2ee39579"
+        },
+        {
+            "path": "/~partytown/partytown-atomics.js",
+            "filePath": "/usr/src/app/www/public/~partytown/partytown-atomics.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "505b66f2dd45b8ef1e3f428e3f415326",
+            "md5": "505b66f2dd45b8ef1e3f428e3f415326",
+            "sha1": "505b66f2dd45b8ef1e3f428e3f415326"
+        },
+        {
+            "path": "/~partytown/partytown-media.js",
+            "filePath": "/usr/src/app/www/public/~partytown/partytown-media.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "7208c6918538d1aaf3dd2094f9feb84b",
+            "md5": "7208c6918538d1aaf3dd2094f9feb84b",
+            "sha1": "7208c6918538d1aaf3dd2094f9feb84b"
+        },
+        {
+            "path": "/~partytown/partytown-sw.js",
+            "filePath": "/usr/src/app/www/public/~partytown/partytown-sw.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "37161d33ed7f57bce6d8e22bb854b1ac",
+            "md5": "37161d33ed7f57bce6d8e22bb854b1ac",
+            "sha1": "37161d33ed7f57bce6d8e22bb854b1ac"
+        },
+        {
+            "path": "/~partytown/partytown.js",
+            "filePath": "/usr/src/app/www/public/~partytown/partytown.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "2773fc4246c14f627c85c532680bfb41",
+            "md5": "2773fc4246c14f627c85c532680bfb41",
+            "sha1": "2773fc4246c14f627c85c532680bfb41"
+        }
+    ],
+    "updated": [],
+    "deleted": [],
+    "requiresFullDeploy": false,
+    "routeCounts": {
+        "ssgCount": 74,
+        "ssrCount": 2,
+        "dsgCount": 2,
+        "functionCount": 0,
+        "totalRenderedPageCount": 7,
+        "paths": {
+            "ssgPaths": {},
+            "ssrPaths": {},
+            "dsgPaths": {},
+            "functionPaths": {}
+        },
+        "functionsWithHashIds": []
+    }
+}
